@@ -51,13 +51,12 @@ The application provides a clean and user-friendly interface that enhances the l
 - Tailwind CSS
 
 ### AI Integration
-- OpenAI API / Gemini API
+- OpenAI API 
 
 ### Tools & Platforms
 - VS Code
 - Git
 - GitHub
-- Lovable AI
 
 ---
 
